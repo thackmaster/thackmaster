@@ -16,7 +16,7 @@ My local setup consists of the following:
     - 256 GB SSD
     - Debian 11
 
-# Containers (as of Dec 28 2023)
+# Containers (as of Jan 13 2024)
 ## Media
 - [Plex](https://plex.tv)
 - [Jellyfin](https://jellyfin.org/)
@@ -31,10 +31,16 @@ My local setup consists of the following:
 
 ## Additional Services
 - [Homepage](https://gethomepage.dev/latest/)
-- [PiHole](https://pi-hole.net/)
+- [Pi-Hole](https://pi-hole.net/)
+- [Pi-Alert](https://github.com/pucherot/Pi.Alert)
 - [Bookstack](https://www.bookstackapp.com/)
 - [Cloudflared](https://github.com/cloudflare/cloudflared)
 - [Portainer](https://www.portainer.io/)
 - [Signal-API](https://github.com/bbernhard/signal-cli-rest-api)
 - [Uptime Kuma](https://uptime.kuma.pet/)
 - [What's Up Docker](https://fmartinou.github.io/whats-up-docker/#/)
+- [Homebox](https://hay-kot.github.io/homebox/)
+
+## Upcoming
+These are services that I have taken an interest in testing, but haven't used yet.
+
