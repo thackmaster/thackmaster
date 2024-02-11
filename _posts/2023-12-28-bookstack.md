@@ -3,7 +3,7 @@ title: Bookstack
 date: 2023-12-28 19:30:00 -0700
 last_modified_at: 2023-12-28 20:16:00 -0700
 categories: 
-tags: [wiki, container]
+tags: [wiki, container, install-guide]
 ---
 
 Bookstack is a simple, self-hosted, easy-to-use platform for organizing and storing information. Installing is quite simple as well.
