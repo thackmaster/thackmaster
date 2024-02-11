@@ -1,7 +1,7 @@
 ---
 title: How to use Persistent Docker Volumes over NFS
 date: 2024-02-11 11:54:00 -0700
-last_modified_at: 2024-02-11 11:55:00 -0700
+last_modified_at: 2024-02-11 13:26:00 -0700
 categories: [How-to Guides]
 tags: []
 ---
@@ -39,7 +39,7 @@ chown: changing ownership of '/var/lib/mysql': Operation not permitted
 #### Create Volume
 > This must be done on the machine where the volume is going to be stored. For example, if you are on machine1 and want the volume to be stored on machine2, you would need to run these commands on machine2.
 > All of the following commands need to be run on the machine where the volume will be stored.
-{: .prompt--warning }
+{: .prompt-warning }
 
 First, let's create our Docker volume.
 
@@ -80,7 +80,7 @@ sudo apt update && sudo apt install nfs-common
 > Remember that these are the commands for distros that use `apt` as their package manager (Debian, Ubuntu). You may have to alter your commands and/or package for other package managers.
 {: .prompt-info }
 
-#### Configure Container to Use the Volume
+#### Use the Volume
 Now, we're going to run our container to use this new volume. Keeping in mind our values from earlier:
 
 ``` bash
@@ -91,3 +91,7 @@ For example,
 ``` bash
 docker run -d -it --name [standard-notes] --mount source=[standardnotes_db],target=[/mnt] standardnotes
 ```
+
+## References
+1. Footnote 1
+2. Footnote 2
