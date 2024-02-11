@@ -93,5 +93,6 @@ docker run -d -it --name [standard-notes] --mount source=[standardnotes_db],targ
 ```
 
 ## References
-1. Footnote 1
-2. Footnote 2
+1. https://phoenixnap.com/kb/nfs-docker-volumes
+2. https://www.reddit.com/r/selfhosted/comments/lkti7c/how_do_you_properly_attach_nfs_shares_to_docker/
+3. https://sysadmins.co.za/create-a-docker-persistent-mysql-service-backed-by-nfs/
