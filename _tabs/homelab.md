@@ -41,6 +41,9 @@ My local setup consists of the following:
 - [What's Up Docker](https://fmartinou.github.io/whats-up-docker/#/) (Docker update manager)
 - [Homebox](https://hay-kot.github.io/homebox/) (Cataloging tool)
 
+## Integrations
+- [Listed](https://listed.to/). Integrates into Standard Notes for an easy-to-use blogging platform.
+
 ## Upcoming
 These are services that I have taken an interest in testing, but haven't used yet.
 - [Outline](https://getoutline.com) (Alternative to Bookstack)
