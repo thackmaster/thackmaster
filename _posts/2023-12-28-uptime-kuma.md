@@ -1,9 +1,9 @@
 ---
 title: Uptime Kuma
 date: 2023-12-28 21:38:00-0700
-last_modified_at: 2024-01-13 16:36:00-0700
-categories: Monitoring
-tags: [container, install-guide]
+last_modified_at: 2024-03-11 17:18:00-0700
+categories: Containers
+tags: [guide]
 ---
 
 Uptime Kuma is a very popular resource for self-hosters looking to monitor their services or other services' for downtime and/or outages. I personally use it internally to keep track of what services are active and if they are healthy. Using the below command is the default way to have Uptime Kuma utilize a Docker volume to store its data.

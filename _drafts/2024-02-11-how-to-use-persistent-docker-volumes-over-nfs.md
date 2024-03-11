@@ -1,8 +1,8 @@
 ---
 title: How to use Persistent Docker Volumes over NFS
 date: 2024-02-11 11:54:00 -0700
-last_modified_at: 2024-02-11 13:26:00 -0700
-categories: [How-to Guides]
+last_modified_at: 2024-03-11 17:20:00 -0700
+categories: Walkthrough
 tags: []
 ---
 

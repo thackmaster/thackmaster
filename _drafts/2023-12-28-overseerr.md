@@ -2,6 +2,6 @@
 title: Overseerr
 date: 2023-12-28
 last_modified_at:
-categories: [AAR Stack]
-tags: [automation, management, media, install-guide, container]
+categories: Containers
+tags: [guide, aar stack]
 ---
